@@ -65,7 +65,6 @@ def index():
     const ctx = canvas.getContext('2d');
     const colorPicker = document.getElementById('color');
     const items = [
-    "Напиши правильно:  сабака афтобус друк кортина",
     "Напиши правильно: мошина самалет зерколо рубажка ",
     "Напиши правильно: гозета галова кника повор сонце",
     "Напиши правильно: крук ромп  обpикoc баpьбa",
